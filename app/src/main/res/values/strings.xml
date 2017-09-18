@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Forecast Widget</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="temperature_template">%d°</string>
+    <string name="wind_speed_template">%d m/s</string>
+    <string name="pressure_template">%d hPa</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="after_tomorrow">After tomorrow</string>
+    <string name="no_places">No places</string>
+    <string name="over_limit">Waiting limit exceeded</string>
+    <string name="invalid_query">Invalid request with \"%s\"</string>
+    <string name="unknown_error">Unknown error: %s</string>
+
+    <string name="not_connected_to_the_internet">You are not connected to the Internet. Please try again later.</string>
+
+    <string name="load_error">Can\'t load forecast</string>
+
+    <string name="empty">Add widget from widget\'s menu</string>
+
+    <string name="search_activity_title">Find city…</string>
+</resources>

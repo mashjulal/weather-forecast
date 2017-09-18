@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_widget">Добавить виджет</string>
+
+    <string name="temperature_template">%d°</string>
+    <string name="wind_speed_template">%d м/с</string>
+    <string name="pressure_template">%d мм.рт.ст.</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="after_tomorrow">Послезавтра</string>
+    <string name="no_places">Мест не найдено</string>
+    <string name="over_limit">Лимит ожидания превышен</string>
+    <string name="invalid_query">Неверный запрос \"%s\"</string>
+    <string name="unknown_error">Неизвестная ошибка: %s</string>
+
+    <string name="not_connected_to_the_internet">Вы не подключены к Интернету. Повторите попытку позже.</string>
+
+    <string name="search_activity_title">Найти город…</string>
+
+    <string name="empty">Добавьте виджет из меню</string>
+    <string name="configure">Настроить</string>
+    <string name="load_error">Не могу загрузить прогноз погоды</string>
+</resources>
